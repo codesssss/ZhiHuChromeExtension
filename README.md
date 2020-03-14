@@ -1,0 +1,2 @@
+# ZhiHu_Chrome_Extension
+用于输入url点赞的知乎插件
