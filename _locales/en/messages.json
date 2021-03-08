@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Ext Starter",
+    "description": "知乎 点赞"
+  },
+  "btnTooltip": {
+    "message": "Ext Starter",
+    "description": "知乎 点赞"
+  },
+  "appDescription": {
+    "message": "知乎 点赞 cross browser extensions",
+    "description": "知乎 点赞 application"
+  }
+}

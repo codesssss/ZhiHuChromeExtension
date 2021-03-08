@@ -1,0 +1,21 @@
+.action_block {
+    width: 100px;
+    height: 35px;
+    background: #000;
+    position: fixed;
+    left: -95px;
+    top: 200px;
+}
+
+.action_block a {
+    color: #eee;
+}
+
+.action_block a:hover {
+    color: #727272;
+    text-decoration: underline;
+}
+
+.action_block:hover {
+    left: 0;
+}
