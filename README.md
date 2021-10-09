@@ -1,2 +1,2 @@
 # ZhiHu_Chrome_Extension
-用于输入url点赞的知乎插件
+The Zhihu thumbs up chrome extension, which is used to enter URL likes, bypassed anti-crawler technology and using JAVASCRIPT
